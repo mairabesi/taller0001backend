@@ -1,0 +1,18 @@
+{
+    "libros":[
+        {
+            "id": 1,
+            "nombre": "cuentos de terror",
+            "autor": "pedro perez",
+            "aniio": 2005
+        },
+        {
+            "id": 2,
+            "nombre": "novelas colombianas ",
+            "autor": "juan acosta",
+            "aniio": 2010
+        }
+
+        
+    ]
+}
